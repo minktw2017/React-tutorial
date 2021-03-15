@@ -1,13 +1,14 @@
 * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif !important;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif !important;
 }
 
 .banner {
     width: 80%;
     height: 200px;
+    padding: 0 auto;
     text-align: center;
     background-color: gray;
 }
